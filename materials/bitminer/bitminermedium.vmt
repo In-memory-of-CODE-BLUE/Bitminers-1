@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "bitminer/bitminermedium"
+	"$alphatest" 1
+}

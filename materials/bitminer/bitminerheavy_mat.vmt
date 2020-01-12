@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "bitminer/bitminerheavy_mat"
+	"$alphatest" 1
+}
